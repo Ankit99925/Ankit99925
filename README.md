@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN & NEXTJS**
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently learning **Networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
