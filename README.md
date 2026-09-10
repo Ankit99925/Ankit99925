@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Developer</h3>
 
-- 🔭 I’m currently working on **MERN & NEXTJS**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Networking & Infra**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
